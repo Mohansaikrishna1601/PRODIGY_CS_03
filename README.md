@@ -54,9 +54,10 @@ Feedback:
 
 - Password should contain at least one special character (e.g., @$!%*?&)
 
-Requirements
+# Requirements
     Python 3.x
 
-Author
-    Mohan Saikrishna
+# Author
+
+Mohan Saikrishna
 
